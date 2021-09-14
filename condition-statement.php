@@ -46,4 +46,5 @@ if ($name == 'Sam' & $password == "Alot10"){
     else if($name!= 'Sam'){
         echo "Wrong username";
     }
+
     else echo "Wrong Password";
